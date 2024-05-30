@@ -1,0 +1,4 @@
+hello everyone now we talk about GIT and GitHub...
+      first we know about what is git 
+      git is a version control system
+      
